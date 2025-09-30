@@ -1,10 +1,10 @@
 <img width="1126" height="900" alt="image" src="https://github.com/user-attachments/assets/4ea3d98f-0c51-4478-b2d2-62d8b68441dd" />
 
 # BRAD6515
-## Breakout board for the Analog Device SSM6515 Ultra Low Power Class-D Audio Amplifier
+## Breakout board for the Analog Devices SSM6515 Ultra Low Power Class-D Audio Amplifier
 
 The **SSM6515** is one of the smallest and lowest-power amplifiers available on the market.  <br />
-**BRAD6515** was created out of the need for a smaller, more handy, and cheaper breakout board than the Analog Device Evaluation Board.  <br />
+**BRAD6515** was created out of the need for a smaller, more handy, and cheaper breakout board than the Analog Devices Evaluation Board.  <br />
 It was designed to maintain the configuration options offered by the EVB but removing some parts that were not essential for its operation.  <br />
 The module is stereo, with two SSM6515 amplifiers.  <br />
 The PCB has two 2.54mm pitch 8-pin connectors, compatible with classic breadboards and allowing for quick and easy connection.  <br />
