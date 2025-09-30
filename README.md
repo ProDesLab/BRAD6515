@@ -1,3 +1,5 @@
+<img width="1126" height="900" alt="image" src="https://github.com/user-attachments/assets/4ea3d98f-0c51-4478-b2d2-62d8b68441dd" />
+
 # BRAD6515
 ## Breakout board for the Analog Device SSM6515 Ultra Low Power Class-D Audio Amplifier
 
