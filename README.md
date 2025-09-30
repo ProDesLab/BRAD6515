@@ -1,3 +1,5 @@
+<head>
+
 <img width="1126" height="900" alt="image" src="https://github.com/user-attachments/assets/4ea3d98f-0c51-4478-b2d2-62d8b68441dd" />
 
 # BRAD6515
@@ -15,3 +17,8 @@ To slightly simplify the design, the amplifier supply voltage has been set to 1.
 
 Thanks to the soldered jumpers, it is possible to change the operating mode of the amplifiers.  <br />
 The power rails of the two amplifiers have been separated and sectioned using jumpers; this is to allow for more detailed consumption measurements.  <br />
+
+
+<meta name="google-site-verification" content="Nyp5ga0_GtnP8ckNPkhOjF41Srjdh1fRGghOhyX2Db8" />
+
+</head>
